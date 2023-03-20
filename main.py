@@ -1069,8 +1069,9 @@ def main():
 if __name__ == "__main__":
 
     # If you want to make multi process, you can type in your terminal 
-    # python3 main.py --name=spam_bot1 --interpreter=python3 --restart-delay=30000 target number (08xxxx)
+    # - pm2 start main.py --name=variable --interpreter=python3 --restart-delay=timedelay (ex : 30000ms) target number (ex : 08xxxxx)
     # variable --name is up to you, example spam_otp1
+    # Please read the Readme.md for more information this tool
 
     try:
         main()

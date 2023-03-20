@@ -30,6 +30,27 @@
 - python3 main.py
 ```
 
+### Run This Tool With Multiple Process
+```
+- sudo apt update && apt upgrade -y
+- sudo apt install nodejs -y
+- npm install -g npm@latest
+- npm i -g pm2
+- pm2 start main.py --name=variable --interpreter=python3 --restart-delay=timedelay (ex : 30000ms) target number (ex : 08xxxxx)
+
+```
+
+## Disclaimer
+
+This Tool is Danger!!, so... don't kidding, use this tool ex: help many people, attack scammer, enemy, etc. Developer will not be responsible for any actions. Thank you bro..
+
+
+Regards
+
+X - ZhnDvs
+Web Devloper & Pentester.
+
+
 ### Tools Overview
 |    main.py    |
 | ------------- |
